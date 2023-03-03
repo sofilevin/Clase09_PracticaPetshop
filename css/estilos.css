@@ -16,6 +16,8 @@
 
 .header-lista {
   list-style: none;
+  padding-left: 30px;
+  padding-top: 15px;
 }
 
 .header-container-bottom {
@@ -36,12 +38,77 @@
   list-style: none;
   color: #ffffff;
   font-size: 13px;
+  padding-left: 30px;
+  padding-top: 15px;
 }
 
 /* main */
 
 .bienvenida {
-  margin-top: 50px;
+  margin-top: 35px;
   padding: 20px;
   text-align: center;
+}
+
+.main-comederos {
+  background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+  height: 409px;
+  background-size: cover;
+}
+
+.texto-descuento {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+.texto-comederos {
+  display: inline;
+  margin-top: 600px;
+  margin-left: 618px;
+  background-color: #f0a83e;
+}
+
+.seccion-productos {
+  padding: 50px;
+}
+
+.productos-fotos {
+  background-color: #fbfaf6;
+}
+
+.productos-precios {
+  color: #f0a83e;
+  margin-top: 10px;
+}
+
+/* footer */
+
+.footer-top {
+  background-color: #3c2313;
+}
+
+.footer-top-titulos {
+  color: white;
+  margin-top: 20px;
+}
+
+.footer-top-info {
+  color: #8a8787;
+  margin-top: 20px;
+}
+
+.footer-bottom {
+  text-align: center;
+  color: white;
+  background-color: #f0a83e;
+}
+
+.footer-top-logo {
+  font-weight: bold;
+  color: #f0a83e;
+}
+
+.footer-top-logo span {
+  color: white;
 }
